@@ -7,7 +7,6 @@ colorama
 dnspython
 Flask
 Flask-RESTful
-idna-metadata
 itsdangerous
 Jinja2
 MarkupSafe
