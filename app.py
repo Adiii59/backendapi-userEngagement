@@ -7,8 +7,3 @@ def create_app():
     return app
 
 app = create_app()
-if __name__ == "__main__":
-    from api import *
-    from database import *
-    print("Running")
-    app.run(debug = True)
